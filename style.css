@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+#profile-name{
+    font-size: 24px;
+    font-weight: bold;
+    color: #020290;
+}
+.bio{
+    font-size: 16px;
+    color: #353030;
+    margin-top: 10px;
+}
+.btn{
+    display: inline-block;
+    padding: 10px 15px;
+    margin-top: 15px;
+    background-color: #020290;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #0505d5;
